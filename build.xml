@@ -13,13 +13,15 @@
  
   <target name="compile" depends="clean, init">
     <path id="project.classpath">
+        <fileset dir="lib" includes="*.jar" />
+             <pathelement location="src"/>
       </path>
     <javac srcdir="src" destdir="bin" includeantruntime="true" classpathref="project.classpath" />
     <jar destfile="dist/test.jar" basedir="bin">
       <manifest>
         <attribute name="Main-Class" value="testgenerator.Main"/>
       </manifest>
-      
+     <zipgroupfileset dir="lib" />
     </jar>
     <java jar="dist/test.jar" fork="true">
     </java>
