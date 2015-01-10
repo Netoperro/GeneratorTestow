@@ -11,20 +11,22 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
+import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class QuestionParser {
 	
 	List<Question> myQuestions;
-//	List<Answer> myAnswers;
+	List<Answer> myAnswers;
+	int j;
 
 	Document dom;
 	
 	public QuestionParser(){
 		//create a list to hold the employee objects
 		myQuestions = new ArrayList<Question>();
-//		myAnswers = new ArrayList<Answer>();
+		myAnswers = new ArrayList<Answer>();
 	}	
 	
 
@@ -84,20 +86,66 @@ public class QuestionParser {
 			}
 		}
 		
-//		NodeList anl = docEle.getElementsByTagName("answers");
-//		if(anl != null && anl.getLength() > 0) {
-//			for(int i = 0 ; i < anl.getLength() ; i++) {
-//				
-//				Element el = (Element)anl.item(i);
-//				
-//				Answer a = getAnswer(el);
-//				
-//				myAnswers.add(a);
-//			}
-//			
-//		}
+		NodeList anl = docEle.getElementsByTagName("answers");
+		if(anl != null && anl.getLength() > 0) {
+			for(int j = 0 ; j < anl.getLength() ; j++) {
+				
+				Element el = (Element)anl.item(j);
+				
+				Answer a = getAnswer(el);
+
+				myAnswers.add(a);
+			}
+			
+		}
+		
+		
+		
+
+		
 	}	
 
+	
+	
+	
+	  public static String getChildContent(Element parent, String name, String missing, String empty) {
+		    Element child = getChild(parent, name);
+		    if (child == null) {
+		      return missing;
+		    } else {
+		      String content = (String) getContent(child);
+		      return (content != null) ? content : empty;
+		    }
+		  }
+
+		  public static Object getContent(Element element) {
+		    NodeList nl = element.getChildNodes();
+		    StringBuffer content = new StringBuffer();
+		    for (int i = 0; i < nl.getLength(); i++) {
+		      Node node = nl.item(i);
+		      switch (node.getNodeType()) {
+		      case Node.ELEMENT_NODE:
+		        return node;
+		      case Node.CDATA_SECTION_NODE:
+		      case Node.TEXT_NODE:
+		        content.append(node.getNodeValue());
+		        break;
+		      }
+		    }
+		    return content.toString().trim();
+		  }
+
+		  public static Element getChild(Element parent, String name) {
+		    for (Node child = parent.getFirstChild(); child != null; child = child.getNextSibling()) {
+		      if (child instanceof Element && name.equals(child.getNodeName())) {
+		        return (Element) child;
+		      }
+		    }
+		    return null;
+		  }
+	
+	
+	
 	/**
 	 * I take an employee element and read the values in, create
 	 * an Employee object and return it
@@ -123,22 +171,27 @@ public class QuestionParser {
 	}
 
 	
-//	private Answer getAnswer(Element aueEl) {
-//		
-//		//for each <employee> element get text or int values of 
-//		//name ,id, age and name
-//		String answerCorrect = aueEl.getAttribute("correct");
-//		
-//		String answer1 = getTextValue(aueEl,"answer");
-//		String answer2 = getTextValue(aueEl,"answer");
-//		String answer3 = getTextValue(aueEl,"answer");
-//		String answer4 = getTextValue(aueEl,"answer");
-//		
-//		//Create a new Employee with the value read from the xml nodes
-//		Answer a = new Answer(answerCorrect, answer1, answer2, answer3, answer4);
-//		
-//		return a;
-//	}
+	private Answer getAnswer(Element aueEl) {
+		
+		//for each <employee> element get text or int values of 
+		//name ,id, age and name
+		String answerCorrect = aueEl.getAttribute("correct");
+		
+//		String answer1 = getTextAnswer(aueEl,"answer");
+//		String answer2 = getTextAnswer(aueEl,"answer");
+//		String answer3 = getTextAnswer(aueEl,"answer");
+//		String answer4 = getTextAnswer(aueEl,"answer");
+		
+		String answer1 = getChildContent(aueEl, "answer", "test", "test1");
+		String answer2 = getChildContent(aueEl, "answer", "test", "test1");
+		String answer3 = getChildContent(aueEl, "answer", "test", "test1");
+		String answer4 = getChildContent(aueEl, "answer", "test", "test1");
+		
+		//Create a new Employee with the value read from the xml nodes
+		Answer a = new Answer(answerCorrect, answer1, answer2, answer3, answer4);
+		
+		return a;
+	}
 	
 	
 	/**
@@ -150,12 +203,15 @@ public class QuestionParser {
 	 * @param tagName
 	 * @return
 	 */
-//	private String getTextValue(Element ele, String tagName) {
+//	private String getTextAnswer(Element ele, String tagName) {
 //		String textVal = null;
 //		NodeList nl = ele.getElementsByTagName(tagName);
 //		if(nl != null && nl.getLength() > 0) {
-//			Element el = (Element)nl.item(0);
+//			for (j = 0; j < nl.getLength(); j++){
+//			Element el = (Element)nl.item(j);
 //			textVal = el.getFirstChild().getNodeValue();
+//			textVal = el.getC
+//			}
 //		}
 //
 //		return textVal;
@@ -183,10 +239,10 @@ public class QuestionParser {
 			System.out.println(it.next().toString());
 		}
 		
-//		Iterator<Answer> it2 = myAnswers.iterator();
-//		while(it2.hasNext()) {
-//			System.out.println(it2.next().toString());
-//		}
+		Iterator<Answer> it2 = myAnswers.iterator();
+		while(it2.hasNext()) {
+			System.out.println(it2.next().toString());
+		}
 	}	
 
 	
