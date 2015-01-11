@@ -75,7 +75,7 @@ public class Main {
 			System.out.println("Wersja #" + i);
 			for (int u = 0; u < numberOfUnits; ++u) {
 				if (questionsFromUnits[u] > 0) {
-					System.out.println("Pytania dla dzia³u: " + root.getChildren().get(u).getAttributeValue("name"));
+					System.out.println("Pytania dla dzialu: " + root.getChildren().get(u).getAttributeValue("name"));
 					ArrayList<Element> questions = new ArrayList<Element>(
 						unitsQuestions.get(u).subList(questionsFromUnits[u] * i, questionsFromUnits[u] * i + questionsFromUnits[u])
 					);
