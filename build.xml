@@ -1,0 +1,29 @@
+<project name="TestGeneratorAnt" default="run" basedir=".">
+	
+	<target name="clean">
+		<delete dir="bin"/>
+		<delete dir="dist"/>
+	</target>
+
+	<target name="init">
+		<mkdir dir="bin"/>
+		<mkdir dir="dist"/>		
+	</target>
+	
+	<target name="compile" depends="clean, init">
+		<javac srcdir="src" destdir="bin" includeantruntime="false" encoding="iso-8859-2"/>	
+	</target>
+	
+	<target name="dist" depends="compile">
+		<jar destfile="dist/TestGenerator.jar" basedir="bin">
+		<manifest>
+			<attribute name="Main-Class" value="forms.MainForm"/>
+		</manifest>
+		</jar>
+	</target>
+	
+	<target name="run" depends="dist">
+		<java jar="dist/TestGenerator.jar" fork="true"/>	
+	</target>
+		
+</project>

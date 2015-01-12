@@ -59,7 +59,7 @@ public class Test
 				RTFExport.ExportToRTF(fListOfUnits, FilePath, fQuantityQuestions, 0);
 			else
 				for (int i=0; i<fQuantityVersions; i++)
-					RTFExport.ExportToRTF(fListOfUnits, FilePath + "_ver." + i+1, fQuantityQuestions, i+1);
+					RTFExport.ExportToRTF(fListOfUnits, FilePath + "_ver." + (i+1), fQuantityQuestions, i+1);
 		}
 		catch (Exception Ex)
 		{

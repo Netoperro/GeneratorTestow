@@ -18,6 +18,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerNumberModel;
 import javax.xml.stream.XMLStreamException;
+import org.eclipse.wb.swing.FocusTraversalOnArray;
+import java.awt.Component;
 
 public class MainForm
 {
@@ -62,8 +64,10 @@ public class MainForm
 	{
 		NewTest = new Test();
 		frmMainForm = new JFrame();
+		frmMainForm.setResizable(false);
 		frmMainForm.setTitle("Generator test\u00F3w");
-		frmMainForm.setBounds(100, 100, 364, 185);
+		frmMainForm.setBounds(100, 100, 353, 172);
+		frmMainForm.setLocationRelativeTo(null);
 		frmMainForm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmMainForm.getContentPane().setLayout(null);
 			
@@ -97,7 +101,8 @@ public class MainForm
 		{
 			public void actionPerformed(ActionEvent arg0)
 			{
-				FileDialog ExportToRTFFile = new FileDialog(frmMainForm, "Wybierz œciêzkê i nazwê pliku", FileDialog.SAVE);
+				FileDialog ExportToRTFFile = new FileDialog(frmMainForm, "Wybierz œcie¿kê i nazwê pliku", FileDialog.SAVE);
+				ExportToRTFFile.setLocationRelativeTo(null);
 				FilenameFilter filter = new FilenameFilter()
 				{		
 					@Override					
@@ -120,14 +125,14 @@ public class MainForm
 					
 					String FilePath = ExportToRTFFile.getDirectory() + ExportToRTFFile.getFile();
 					if (ExportToRTFFile.getFile() != null && !NewTest.ExportToRTF(FilePath))
-						JOptionPane.showMessageDialog(frmMainForm, "Eksport do pliku RTF nie powid³ siê.");
+						JOptionPane.showMessageDialog(frmMainForm, "Eksport do pliku RTF nie powiód³ siê.");
 				}
 				catch (Exception Ex)
 				{
 					if (Ex.getMessage().contains("Not enough questions in unit:"))
 						JOptionPane.showMessageDialog(frmMainForm, Ex.getMessage());
 					else
-						JOptionPane.showMessageDialog(frmMainForm, "Eksport do pliku RTF nie powid³ siê.");
+						JOptionPane.showMessageDialog(frmMainForm, "Eksport do pliku RTF nie powiód³ siê.");
 				}
 			}
 		});
@@ -140,6 +145,7 @@ public class MainForm
 			public void actionPerformed(ActionEvent arg0)
 			{
 				FileDialog OpenXMLFile = new FileDialog(frmMainForm, "Wybierz plik Ÿródowy XML", FileDialog.LOAD);
+				OpenXMLFile.setLocationRelativeTo(null);
 				FilenameFilter filter = new FilenameFilter()
 				{		
 					@Override					
@@ -183,5 +189,6 @@ public class MainForm
 		btnImportXML.setBounds(10, 103, 165, 24);
 		btnImportXML.setActionCommand("Import XML");
 		frmMainForm.getContentPane().add(btnImportXML);
+		frmMainForm.setFocusTraversalPolicy(new FocusTraversalOnArray(new Component[]{btnImportXML, btnExportToRTF, spnQuantityVersions, spnQuantityQuestions}));
 	}
 }
