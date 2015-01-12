@@ -117,7 +117,8 @@ public class RTFExport
 		
 		try
 		{ 
-			File NewFile = new File(FilePath + "_Questions.rtf");
+			String NewFilePath = (FilePath.toLowerCase().endsWith(".rtf")) ? FilePath.substring(0, FilePath.length() - 4) : FilePath;			
+			File NewFile = new File(NewFilePath + "_Questions.rtf");
 			
 			if (!NewFile.exists())
 				NewFile.createNewFile();
@@ -126,7 +127,7 @@ public class RTFExport
 			Buffer.write(TestToExport.toString());
 			Buffer.close();
 				
-			NewFile = new File(FilePath + "_Answers.rtf");
+			NewFile = new File(NewFilePath + "_Answers.rtf");
 			 
 			if (!NewFile.exists())
 				NewFile.createNewFile();
@@ -137,7 +138,7 @@ public class RTFExport
 		}
 		catch (IOException Ex)
 		{
-			Ex.printStackTrace();
+			throw Ex;
 		}
 	}
 }

@@ -20,7 +20,7 @@ public class XMLParser
 	{
 	}
 	
-	public static List<Unit> ParseXMLFile(String FilePath)
+	public static List<Unit> ParseXMLFile(String FilePath) throws XMLStreamException, FileNotFoundException
 	{
 		List<Unit> Units = null;
 		Unit NewUnit = null;
@@ -81,11 +81,11 @@ public class XMLParser
 		}
 		catch (XMLStreamException Ex)
 		{
-			Ex.printStackTrace();
+			throw Ex;
 		}
 		catch (FileNotFoundException Ex)
 		{
-			Ex.printStackTrace();
+			throw Ex;
 		}	
 		
 		return Units;

@@ -1,6 +1,9 @@
 package units.classes;
 
+import java.io.FileNotFoundException;
 import java.util.List;
+
+import javax.xml.stream.XMLStreamException;
 
 import units.classes.RTFExport;
 import units.classes.Unit;
@@ -21,15 +24,34 @@ public class Test
 		fQuantityQuestions = 0;
 	}
 	
-	public void ImportXMLFile(String FilePath)
+	public boolean ImportXMLFile(String FilePath) throws XMLStreamException, FileNotFoundException
 	{
-		fListOfUnits = XMLParser.ParseXMLFile(FilePath);
+		if (FilePath == null)
+			return false;
+		
+		try
+		{
+			fListOfUnits = XMLParser.ParseXMLFile(FilePath);
+		}
+		catch (XMLStreamException Ex)
+		{
+			throw Ex;
+		}
+		catch (FileNotFoundException Ex)
+		{
+			throw Ex;
+		}
+		
+		if (fListOfUnits != null)
+			return true;
+		
+		return false;		
 	}
 	
-	public void ExportToRTF(String FilePath) throws Exception
+	public boolean ExportToRTF(String FilePath) throws Exception
 	{
-		if (fListOfUnits == null)
-			return;
+		if (FilePath == null || fListOfUnits == null || fListOfUnits.isEmpty())
+			return false;
 		
 		try
 		{
@@ -43,6 +65,8 @@ public class Test
 		{
 			throw Ex;
 		}
+		
+		return true;
 	}	
 	
 	//setter
