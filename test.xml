@@ -3,25 +3,25 @@
 		<question type="close">
 			<text>Verification is: </text>
 			<answers>
-				<answer correct="false">a. Checking that we are building the right system</answer>
-				<answer correct="true">b. Checking that we are building the system right</answer>
-				<answer correct="false">c. Performed by an independent test team</answer>
-				<answer correct="false">d. Making sure that it is what the user really wants</answer>
+				<answer correct="false">Checking that we are building the right system</answer>
+				<answer correct="true">Checking that we are building the system right</answer>
+				<answer correct="false">Performed by an independent test team</answer>
+				<answer correct="false">Making sure that it is what the user really wants</answer>
 			</answers>
 		</question>
 		<question type="close">
 			<text>A regression test: </text>
 			<answers>
-				<answer correct="false">a. Will always be automated</answer>
-				<answer correct="true">b. Will help ensure unchanged areas of the software have not been affected</answer>
-				<answer correct="false">c. Will help ensure changed areas of the software have not been affected</answer>
-				<answer correct="false">d. Can only be run during user acceptance testing</answer>
+				<answer correct="false">Will always be automated</answer>
+				<answer correct="true">Will help ensure unchanged areas of the software have not been affected</answer>
+				<answer correct="false">Will help ensure changed areas of the software have not been affected</answer>
+				<answer correct="false">Can only be run during user acceptance testing</answer>
 			</answers>
 		</question>
 		<question type="open">
 			<text>To test a function, the programmer has to write a ______, which calls the function and passes it test data. </text>
 			<answers>
-				<answer correct="open"> ... </answer>
+				<answer correct="true"> ... </answer>
 			</answers>
 		</question>		
 	</unit>
@@ -29,25 +29,25 @@
 		<question type="close">
 			<text>Given a method in a protected class, what access modifier do you use to restrict access to that method to only the other members of the same class?</text>
 			<answers>	
-				<answer correct="true">a. private</answer>
-				<answer correct="false">b. final</answer>
-				<answer correct="false">c. protected</answer>
-				<answer correct="false">d. static</answer>
+				<answer correct="true">private</answer>
+				<answer correct="false">final</answer>
+				<answer correct="false">protected</answer>
+				<answer correct="false">static</answer>
 			</answers>
 		</question>
 		<question type="close">
 			<text>Which statement is true?</text>
 			<answers>	
-				<answer correct="false">a. Memory is reclaimed by calling Runtime.gc()</answer>
-				<answer correct="true">b. Objects are not collected if they are accessible from live threads.</answer>
-				<answer correct="false">c. An OutOfMemory error is only thrown if a single block of memory cannot be found that is large enough for a particular requirement.</answer>
-				<answer correct="false">d. Objects that have finalize() methods always have their finalize() methods called before the program ends.</answer>
+				<answer correct="false">Memory is reclaimed by calling Runtime.gc()</answer>
+				<answer correct="true">Objects are not collected if they are accessible from live threads.</answer>
+				<answer correct="false">An OutOfMemory error is only thrown if a single block of memory cannot be found that is large enough for a particular requirement.</answer>
+				<answer correct="false">Objects that have finalize() methods always have their finalize() methods called before the program ends.</answer>
 			</answers>
 		</question>	
 		<question type="open">
 			<text>Write singleton pattern. </text>
 			<answers>
-				<answer correct="open"> ... </answer>
+				<answer correct="true"> ... </answer>
 			</answers>
 		</question>	
 	</unit>		
