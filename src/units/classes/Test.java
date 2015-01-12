@@ -26,12 +26,23 @@ public class Test
 		fListOfUnits = XMLParser.ParseXMLFile(FilePath);
 	}
 	
-	public void ExportToRTF(String FilePath)
+	public void ExportToRTF(String FilePath) throws Exception
 	{
 		if (fListOfUnits == null)
 			return;
 		
-		RTFExport.ExportToRTF(fListOfUnits, FilePath, fQuantityQuestions);
+		try
+		{
+			if (fQuantityVersions < 2)
+				RTFExport.ExportToRTF(fListOfUnits, FilePath, fQuantityQuestions, 0);
+			else
+				for (int i=0; i<fQuantityVersions; i++)
+					RTFExport.ExportToRTF(fListOfUnits, FilePath + "_ver." + i+1, fQuantityQuestions, i+1);
+		}
+		catch (Exception Ex)
+		{
+			throw Ex;
+		}
 	}	
 	
 	//setter

@@ -7,11 +7,18 @@ public class TestGenerator
 
 	public static void main(String[] args)
 	{
-		System.out.println("test");
-		Test test = new Test();
-		test.ImportXMLFile("test.xml");
-		int proba = test.GetCount();
-		int proba2 = test.GetCount();
+		try
+		{
+			Test NewTest = new Test();
+			NewTest.ImportXMLFile("test.xml");
+			NewTest.SetQuantityQuestions(0);
+			NewTest.SetQuantityVersions(0);
+			NewTest.ExportToRTF("GotowyTest");
+		}
+		catch (Exception Ex)
+		{
+			Ex.printStackTrace();
+		}
 	}
 
 }
