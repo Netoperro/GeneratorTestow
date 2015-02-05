@@ -66,7 +66,7 @@ public class MainForm
 		frmMainForm = new JFrame();
 		frmMainForm.setResizable(false);
 		frmMainForm.setTitle("Generator test\u00F3w");
-		frmMainForm.setBounds(100, 100, 353, 172);
+		frmMainForm.setBounds(100, 100, 353, 232);
 		frmMainForm.setLocationRelativeTo(null);
 		frmMainForm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmMainForm.getContentPane().setLayout(null);
@@ -75,9 +75,17 @@ public class MainForm
 		lblQuantityVersions.setBounds(65, 13, 102, 24);
 		frmMainForm.getContentPane().add(lblQuantityVersions);
 		
-		Label lblQuantityQuestions = new Label("Ilo\u015B\u0107 pyta\u0144 na ka\u017Cdy dzia\u0142");
+		Label lblQuantityQuestions = new Label("Iloœæ pytañ dzia³ pierwszy");
 		lblQuantityQuestions.setBounds(10, 43, 157, 24);
 		frmMainForm.getContentPane().add(lblQuantityQuestions);
+		
+		Label lblQuantityQuestions2 = new Label("Iloœæ pytañ dzia³ drugi");
+		lblQuantityQuestions2.setBounds(10, 73, 157, 24);
+		frmMainForm.getContentPane().add(lblQuantityQuestions2);
+		
+		Label lblQuantityQuestions3 = new Label("Iloœæ pytañ dzia³ trzeci");
+		lblQuantityQuestions3.setBounds(10, 103, 157, 24);
+		frmMainForm.getContentPane().add(lblQuantityQuestions3);
 			
 		JSpinner spnQuantityVersions = new JSpinner();
 		spnQuantityVersions.setEnabled(false);
@@ -91,8 +99,20 @@ public class MainForm
 		spnQuantityQuestions.setBounds(173, 43, 45, 24);
 		frmMainForm.getContentPane().add(spnQuantityQuestions);
 		
+		JSpinner spnQuantityQuestions2 = new JSpinner();
+		spnQuantityQuestions2.setEnabled(false);
+		spnQuantityQuestions2.setModel(new SpinnerNumberModel(new Integer(0), new Integer(0), null, new Integer(1)));
+		spnQuantityQuestions2.setBounds(173, 73, 45, 24);
+		frmMainForm.getContentPane().add(spnQuantityQuestions2);
+		
+		JSpinner spnQuantityQuestions3 = new JSpinner();
+		spnQuantityQuestions3.setEnabled(false);
+		spnQuantityQuestions3.setModel(new SpinnerNumberModel(new Integer(0), new Integer(0), null, new Integer(1)));
+		spnQuantityQuestions3.setBounds(173, 103, 45, 24);
+		frmMainForm.getContentPane().add(spnQuantityQuestions3);
+		
 		Label lblInformation = new Label("Warto\u015B\u0107 0 oznacza, \u017Ce b\u0119d\u0105 dodane wszystkie pytania");
-		lblInformation.setBounds(10, 73, 327, 24);
+		lblInformation.setBounds(10, 133, 327, 24);
 		frmMainForm.getContentPane().add(lblInformation);
 		
 		Button btnExportToRTF = new Button("Generuj test");
@@ -136,7 +156,7 @@ public class MainForm
 				}
 			}
 		});
-		btnExportToRTF.setBounds(198, 103, 139, 24);
+		btnExportToRTF.setBounds(198, 163, 139, 24);
 		frmMainForm.getContentPane().add(btnExportToRTF);
 		
 		Button btnImportXML = new Button("Importuj plik XML");
@@ -186,7 +206,7 @@ public class MainForm
 				}
 			}
 		});
-		btnImportXML.setBounds(10, 103, 165, 24);
+		btnImportXML.setBounds(10, 163, 165, 24);
 		btnImportXML.setActionCommand("Import XML");
 		frmMainForm.getContentPane().add(btnImportXML);
 		frmMainForm.setFocusTraversalPolicy(new FocusTraversalOnArray(new Component[]{btnImportXML, btnExportToRTF, spnQuantityVersions, spnQuantityQuestions}));
