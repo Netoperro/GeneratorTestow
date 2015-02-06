@@ -126,15 +126,17 @@ public class RTFExport
 			BufferedWriter Buffer = new BufferedWriter(new FileWriter(NewFile.getAbsoluteFile()));
 			Buffer.write(TestToExport.toString());
 			Buffer.close();
-				
-			NewFile = new File(NewFilePath + "_Answers.rtf");
+					
+			NewFile = new File("Answers.txt");
 			 
 			if (!NewFile.exists())
 				NewFile.createNewFile();
  
-			Buffer = new BufferedWriter(new FileWriter(NewFile.getAbsoluteFile()));
+			Buffer = new BufferedWriter(new FileWriter(NewFile.getAbsoluteFile(),true));
+			Buffer.newLine();
 			Buffer.write(AnswersToExport.toString());
-			Buffer.close();			
+			
+			Buffer.close();
 		}
 		catch (IOException Ex)
 		{
