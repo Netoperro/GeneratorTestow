@@ -1,15 +1,22 @@
 package units.classes;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Random;
+import java.util.Scanner;
 
+import sun.misc.IOUtils;
 import units.enums.Type;
 import units.classes.Unit;
 import units.classes.Question;
@@ -22,18 +29,23 @@ public class RTFExport
 	
 	public static void ExportToRTF(List<Unit> Units, String FilePath, int QuantityQuestions, int NumberOfVersion) throws Exception
 	{
-		StringBuilder TestToExport = new StringBuilder("{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}}\n");
-		TestToExport.append("{\\colortbl ;\\red0\\green0\\blue0;}\n");
-		TestToExport.append("{\\*\\generator Riched20 6.3.9600}\\viewkind4\\uc1\n");
+		StringBuilder AnswersToExport = new StringBuilder("");
+		if (NumberOfVersion < 2)
+			AnswersToExport.append("{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}}\n");
+		AnswersToExport.append("{\\colortbl ;\\red0\\green0\\blue0;}\n");
+		AnswersToExport.append("{\\*\\generator Riched20 6.3.9600}\\viewkind4\\uc1\n");
 		SimpleDateFormat FormatDate = new SimpleDateFormat("dd-MM-yyyy");
-		TestToExport.append("\\pard\\sl240\\slmult1\\qr\\cf1\\f0\\fs18\\lang1045 Generate date: " + FormatDate.format(new Date()) + "r.");
+		AnswersToExport.append("\\pard\\sl240\\slmult1\\qr\\cf1\\f0\\fs18\\lang1045 Generate date: " + FormatDate.format(new Date()) + "r.");
 		
 		if (NumberOfVersion != 0)
-			TestToExport.append(", ver. " + NumberOfVersion + ".");
+			AnswersToExport.append(", ver. " + NumberOfVersion + ".");
 		
-		TestToExport.append("\\f1\\lang21\\par\n\n");
+		AnswersToExport.append("\\f1\\lang21\\par\n\n");
 		
-		StringBuilder AnswersToExport = new StringBuilder(TestToExport.toString());
+		StringBuilder TestToExport = new StringBuilder("");
+		if (NumberOfVersion > 1)
+			TestToExport.append("{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}}\n");		
+		TestToExport.append(AnswersToExport.toString());
 		
 		for (int i=0; i<Units.size(); i++)
 		{		
@@ -126,16 +138,19 @@ public class RTFExport
 			BufferedWriter Buffer = new BufferedWriter(new FileWriter(NewFile.getAbsoluteFile()));
 			Buffer.write(TestToExport.toString());
 			Buffer.close();
-					
-			NewFile = new File("Answers.txt");
-			 
-			if (!NewFile.exists())
-				NewFile.createNewFile();
- 
-			Buffer = new BufferedWriter(new FileWriter(NewFile.getAbsoluteFile(),true));
-			Buffer.newLine();
-			Buffer.write(AnswersToExport.toString());
 			
+			String TempPathToAswers = new String(NewFile.getAbsolutePath());
+			String PathToAswers = TempPathToAswers.substring(0, TempPathToAswers.lastIndexOf(NewFile.separator));
+			NewFile = new File(PathToAswers+"\\Answers.rtf");
+			
+			if (!NewFile.exists())
+				NewFile.createNewFile();			
+
+			String ContentFile = new String(Files.readAllBytes(Paths.get(PathToAswers+"\\Answers.rtf")));			
+			Buffer = new BufferedWriter(new FileWriter(NewFile.getAbsoluteFile()));
+			if (ContentFile.length() > 0)
+				Buffer.write(ContentFile.substring(0, ContentFile.length()-1));
+			Buffer.write(AnswersToExport.toString());	
 			Buffer.close();
 		}
 		catch (IOException Ex)
