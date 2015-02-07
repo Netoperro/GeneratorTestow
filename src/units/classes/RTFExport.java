@@ -20,7 +20,8 @@ public class RTFExport
 	{
 	}
 	
-	public static void ExportToRTF(List<Unit> Units, String FilePath, int QuantityQuestions, int NumberOfVersion) throws Exception
+	
+	public static List<Question> ExportToRTF(List<Unit> Units, String FilePath, int QuantityQuestions, int NumberOfVersion, List<Question> ExportedQuestName, int AllQuestionsCount) throws Exception
 	{
 		StringBuilder TestToExport = new StringBuilder("{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat{\\fonttbl{\\f0\\fnil\\fcharset0 Calibri;}}\n");
 		TestToExport.append("{\\colortbl ;\\red0\\green0\\blue0;}\n");
@@ -45,26 +46,31 @@ public class RTFExport
 			
 			TestToExport.append("\\pard\\sl240\\slmult1\\qc\\cf1\\b\\f0\\fs22\\lang21 " + Units.get(i).GetUnitName() + "\\cf0\\b0\\par\n\n");
 			AnswersToExport.append("\\pard\\sl240\\slmult1\\qc\\cf1\\b\\f0\\fs22\\lang21 " + Units.get(i).GetUnitName() + "\\cf0\\b0\\par\n\n");
-						
+				
+			List<Integer> ExcpectedQuestions = new ArrayList<Integer>();
 			List<Question> ListOfQuestions = Units.get(i).GetQuestions();
-			List<Integer> ExportedQuestions = new ArrayList<Integer>(); 
 			Random RandomQuestion = new Random(System.nanoTime());
 
 			for (int j=0; j<QuantityQuestions; j++)
 		    {
+				if(AllQuestionsCount<=ExportedQuestName.size())
+					throw new Exception("Pool of questions end at "+NumberOfVersion+". Can't generate more versions of test");
 				
 				int Index = -1;
 				do
 				{
 					Index = RandomQuestion.nextInt(Units.get(i).GetCount());
-					for (int Find=0; Find<ExportedQuestions.size(); Find++)
-						if (ExportedQuestions.get(Find) == Index)
+					for (int Find=0; Find<ExportedQuestName.size(); Find++)
+						if (ExportedQuestName.get(Find) == Units.get(i).GetQuestions().get(Index))
 						{
 							Index = -1;
 							break;
 						}
 					if (Index != -1)
-						ExportedQuestions.add(Index);
+					{
+						ExportedQuestName.add(Units.get(i).GetQuestions().get(Index));
+						ExcpectedQuestions.add(Index);
+					}
 				}
 				while (Index == -1);
 				
@@ -142,5 +148,6 @@ public class RTFExport
 		{
 			throw Ex;
 		}
+		return ExportedQuestName;
 	}
 }

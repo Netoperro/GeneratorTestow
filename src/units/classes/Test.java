@@ -2,6 +2,7 @@ package units.classes;
 
 import java.io.FileNotFoundException;
 import java.util.List;
+import java.util.ArrayList;
 
 import javax.xml.stream.XMLStreamException;
 
@@ -48,18 +49,36 @@ public class Test
 		return false;		
 	}
 	
+	int AllQQuantity() throws Exception
+	{
+		int OverallQQuantity = 0;
+		for(int i=0; i<fListOfUnits.size(); i++)
+			{
+				if(fQuantityQuestions * fQuantityVersions > fListOfUnits.get(i).GetCount())
+					throw new Exception("Pool of questions is to small in "+fListOfUnits.get(i).GetUnitName()+" for Question Quantity parameter of "+ fQuantityQuestions);
+				OverallQQuantity += fListOfUnits.get(i).GetCount();
+			}
+		return OverallQQuantity;
+	}
+	
 	public boolean ExportToRTF(String FilePath) throws Exception
 	{
 		if (FilePath == null || fListOfUnits == null || fListOfUnits.isEmpty())
 			return false;
 		
+		int OverallQQuantity = AllQQuantity();
+		
+		List<Question> ExportedQuestName = new ArrayList<Question>();
+		
 		try
 		{
 			if (fQuantityVersions < 2)
-				RTFExport.ExportToRTF(fListOfUnits, FilePath, fQuantityQuestions, 0);
+				ExportedQuestName = RTFExport.ExportToRTF(fListOfUnits, FilePath, fQuantityQuestions, 
+						0,ExportedQuestName,OverallQQuantity);
 			else
 				for (int i=0; i<fQuantityVersions; i++)
-					RTFExport.ExportToRTF(fListOfUnits, FilePath + "_ver." + (i+1), fQuantityQuestions, i+1);
+					ExportedQuestName = RTFExport.ExportToRTF(fListOfUnits, FilePath + "_ver." + (i+1), 
+							fQuantityQuestions, i+1,ExportedQuestName,OverallQQuantity);
 		}
 		catch (Exception Ex)
 		{

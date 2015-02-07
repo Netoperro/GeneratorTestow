@@ -79,13 +79,13 @@ public class MainForm
 		lblQuantityQuestions.setBounds(10, 43, 157, 24);
 		frmMainForm.getContentPane().add(lblQuantityQuestions);
 			
-		JSpinner spnQuantityVersions = new JSpinner();
+		final JSpinner spnQuantityVersions = new JSpinner();
 		spnQuantityVersions.setEnabled(false);
 		spnQuantityVersions.setModel(new SpinnerNumberModel(new Integer(1), new Integer(1), null, new Integer(1)));
 		spnQuantityVersions.setBounds(173, 13, 45, 24);
 		frmMainForm.getContentPane().add(spnQuantityVersions);
 		
-		JSpinner spnQuantityQuestions = new JSpinner();
+		final JSpinner spnQuantityQuestions = new JSpinner();
 		spnQuantityQuestions.setEnabled(false);
 		spnQuantityQuestions.setModel(new SpinnerNumberModel(new Integer(0), new Integer(0), null, new Integer(1)));
 		spnQuantityQuestions.setBounds(173, 43, 45, 24);
@@ -95,7 +95,7 @@ public class MainForm
 		lblInformation.setBounds(10, 73, 327, 24);
 		frmMainForm.getContentPane().add(lblInformation);
 		
-		Button btnExportToRTF = new Button("Generuj test");
+		final Button btnExportToRTF = new Button("Generuj test");
 		btnExportToRTF.setEnabled(false);
 		btnExportToRTF.addActionListener(new ActionListener()
 		{
@@ -129,10 +129,14 @@ public class MainForm
 				}
 				catch (Exception Ex)
 				{
+					
 					if (Ex.getMessage().contains("Not enough questions in unit:"))
 						JOptionPane.showMessageDialog(frmMainForm, Ex.getMessage());
 					else
+					{
+						JOptionPane.showMessageDialog(frmMainForm, Ex.getMessage());
 						JOptionPane.showMessageDialog(frmMainForm, "Eksport do pliku RTF nie powiód³ siê.");
+					}
 				}
 			}
 		});

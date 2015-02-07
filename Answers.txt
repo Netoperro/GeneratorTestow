@@ -1,0 +1,1831 @@
+
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 2.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 3.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 4.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 5.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 6.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 7.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 8.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 9.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 10.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 11.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 12.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 13.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 14.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 15.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 16.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 17.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 18.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 19.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 20.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 21.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 22.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 23.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 24.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 25.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 26.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 27.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 28.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 29.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 30.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 31.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 32.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 2.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 2.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 2.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 1.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 2.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 6.3.9600}\viewkind4\uc1
+\pard\sl240\slmult1\qr\cf1\f0\fs18\lang1045 Generate date: 07-02-2015r., ver. 3.\f1\lang21\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 1\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 2\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qc\cf1\b\f0\fs22\lang21 Dział 3\cf0\b0\par
+
+\pard
+{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard
+{\pntext\f0 2.\tab}{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}
+\fi-360\li360\sl240\slmult1\cf1 b.\cf0\par
+
+\pard\sl240\slmult1\par
+
+}
