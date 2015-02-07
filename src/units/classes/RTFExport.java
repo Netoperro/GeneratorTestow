@@ -1,10 +1,7 @@
 package units.classes;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -14,9 +11,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Random;
-import java.util.Scanner;
-
-import sun.misc.IOUtils;
 import units.enums.Type;
 import units.classes.Unit;
 import units.classes.Question;
